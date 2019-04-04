@@ -1,0 +1,26 @@
+.mainTitle {
+  text-align: center;
+  padding: 20px;
+  font-weight: 700;
+  color: white;
+}
+.count-val {
+  text-align: center;
+  color: gray;
+  font-size: 18px;
+  font-weight: 700;
+  padding: 0px !important;
+  margin: -20px !important;
+}
+.AddWrapper {
+  min-width: 400px;
+  width: 70%;
+  margin: 100px auto;
+  border-radius: 5px;
+  padding: 50px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+.mainw {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  border-radius: 5px;
+}
